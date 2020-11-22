@@ -2,8 +2,9 @@
 
 This is a collection of spreader settings. I wasn't able to find a good set online for my needs so I'm collecting them here. If you have some to add let me know.
 
-Half-Rate: The setting for 2 passes perpendicular to each other.
-Full-Rate: The setting for 1 pass only.
+**Half-Rate:** The setting for 2 passes perpendicular to each other.
+
+**Full-Rate:** The setting for 1 pass only.
 
 ## Lesco 80lb spreader
 
